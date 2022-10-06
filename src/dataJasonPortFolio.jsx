@@ -1,9 +1,9 @@
 import image1 from './assets/Images/portfolio/blog.jpg'
 import image2 from './assets/Images/portfolio/todolistnode.jpg'
-import image3 from './assets/Images/portfolio/blog.jpg'
+import image3 from './assets/Images/portfolio/userauth.jpg'
 import image4 from './assets/Images/portfolio/todolistreact.jpg'
 import image5 from './assets/Images/portfolio/portfolio.jpg'
-import image6 from './assets/Images/portfolio/blog.jpg'
+import image6 from './assets/Images/portfolio/weather.jpg'
 import image7 from './assets/Images/portfolio/office.jpg'
 import image8 from './assets/Images/portfolio/dram.jpg'
 import image9 from './assets/Images/portfolio/dindong.jpg'
@@ -27,11 +27,11 @@ export const cardMediaDataPort = [
   },
   {
     id: 3,
-    titleBody: 'Register/Loging with Gmail (NodeJS)',
+    titleBody: 'User Authentication (NodeJS)',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
     url: image3,
-    link: '',
+    link: 'https://userauthentication-node.herokuapp.com/',
   },
   {
     id: 4,
@@ -55,7 +55,7 @@ export const cardMediaDataPort = [
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
     url: image6,
-    link: '',
+    link: 'https://weather-nodejsapp.herokuapp.com/',
   },
   {
     id: 7,
