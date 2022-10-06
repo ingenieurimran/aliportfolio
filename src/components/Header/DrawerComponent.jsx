@@ -1,7 +1,6 @@
 import React from 'react'
 import {Box, Drawer, ListItem, ListItemText, List} from '@material-ui/core'
 import {useStyles} from '../Styles/HeaderStyles'
-import {ListItemIcon} from '@mui/material'
 import {Link} from 'react-scroll'
 
 export default function DrawerComponent({
