@@ -7,10 +7,18 @@ import image6 from './assets/Images/portfolio/weather.jpg'
 import image7 from './assets/Images/portfolio/office.jpg'
 import image8 from './assets/Images/portfolio/dram.jpg'
 import image9 from './assets/Images/portfolio/dindong.jpg'
+import image10 from './assets/Images/portfolio/ecommerce.jpg'
 
 export const cardMediaDataPort = [
   {
     id: 1,
+    titleBody: 'Ecommerce Website',
+    discriptionBody: 'MERN Stack with React,Redux,Express,Node and Mongodb',
+    url: image10,
+    link: 'https://ecommerce-app-store.herokuapp.com/',
+  },
+  {
+    id: 2,
     titleBody: 'ToDo App with NodeJS',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -18,7 +26,7 @@ export const cardMediaDataPort = [
     link: 'https://blogapp-db.herokuapp.com/',
   },
   {
-    id: 2,
+    id: 3,
     titleBody: 'Blog App with NodeJS',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -26,7 +34,7 @@ export const cardMediaDataPort = [
     link: 'https://todo-list-nodejs-express.herokuapp.com/',
   },
   {
-    id: 3,
+    id: 4,
     titleBody: 'User Authentication (NodeJS)',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -34,7 +42,7 @@ export const cardMediaDataPort = [
     link: 'https://userauthentication-node.herokuapp.com/',
   },
   {
-    id: 4,
+    id: 5,
     titleBody: 'ToDo App with ReactJS',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -42,7 +50,7 @@ export const cardMediaDataPort = [
     link: 'https://ingenieurimran.github.io/todo-listreact/',
   },
   {
-    id: 5,
+    id: 6,
     titleBody: 'Portfolio with ReactJS',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -50,7 +58,7 @@ export const cardMediaDataPort = [
     link: 'https://ingenieurimran.github.io/aliportfolio/',
   },
   {
-    id: 6,
+    id: 7,
     titleBody: 'Weather App with ReactJS',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -58,7 +66,7 @@ export const cardMediaDataPort = [
     link: 'https://weather-nodejsapp.herokuapp.com/',
   },
   {
-    id: 7,
+    id: 8,
     titleBody: 'Engineering office Website',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -66,7 +74,7 @@ export const cardMediaDataPort = [
     link: '',
   },
   {
-    id: 8,
+    id: 9,
     titleBody: 'Drum Kit Game',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
@@ -74,7 +82,7 @@ export const cardMediaDataPort = [
     link: 'https://app-dramkit.herokuapp.com/',
   },
   {
-    id: 9,
+    id: 10,
     titleBody: 'Website',
     discriptionBody:
       'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam',
