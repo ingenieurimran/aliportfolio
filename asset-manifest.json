@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aliportfolio/static/css/main.f4dc68ec.css",
+    "main.js": "/aliportfolio/static/js/main.c9f604d6.js",
+    "static/media/office.jpg": "/aliportfolio/static/media/office.49bb5162212f27360ef1.jpg",
+    "static/media/ecommerce.jpg": "/aliportfolio/static/media/ecommerce.e6d9ebab070d9f74a1d6.jpg",
+    "static/media/todolistnode.jpg": "/aliportfolio/static/media/todolistnode.e33bc66de8db8568cd06.jpg",
+    "static/media/portfolio.jpg": "/aliportfolio/static/media/portfolio.4d15a05291617d7f26ca.jpg",
+    "static/media/a.jpg": "/aliportfolio/static/media/a.756422b60c04a841cec7.jpg",
+    "static/media/contact.png": "/aliportfolio/static/media/contact.54f09ddb17a707dbf793.png",
+    "static/media/dindong.jpg": "/aliportfolio/static/media/dindong.e387e8f47b608f259466.jpg",
+    "static/media/blog.jpg": "/aliportfolio/static/media/blog.bae940f3c992b18aa17c.jpg",
+    "static/media/dram.jpg": "/aliportfolio/static/media/dram.f7ecc018f734ea14b78d.jpg",
+    "static/media/body.png": "/aliportfolio/static/media/body.363abcf5fd65d5a0eae9.png",
+    "static/media/weather.jpg": "/aliportfolio/static/media/weather.f4865a5f39bf88cfb66b.jpg",
+    "static/media/userauth.jpg": "/aliportfolio/static/media/userauth.8cdb1a9b39dbf726abe6.jpg",
+    "static/media/todolistreact.jpg": "/aliportfolio/static/media/todolistreact.7bea10017212ecffc2e5.jpg",
+    "index.html": "/aliportfolio/index.html",
+    "main.f4dc68ec.css.map": "/aliportfolio/static/css/main.f4dc68ec.css.map",
+    "main.c9f604d6.js.map": "/aliportfolio/static/js/main.c9f604d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4dc68ec.css",
+    "static/js/main.c9f604d6.js"
+  ]
+}
