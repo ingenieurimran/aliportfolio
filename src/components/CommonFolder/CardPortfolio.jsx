@@ -26,7 +26,7 @@ function CardPortfolio({itemName}) {
       </CardContent>
       <CardActions>
         <Button size="small" href={itemName.link} target="_blank">
-          Learn More
+          About Project
         </Button>
       </CardActions>
     </Card>
